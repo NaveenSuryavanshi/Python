@@ -124,3 +124,17 @@
 # () is used for tuple
 # {} is used for sets and dictionary 
 
+# def print_sum(num1, num2):
+#     sum = num1 + num2
+#     return sum
+
+# print(print_sum(10, 20))
+
+
+# num1 = input("enter first number: ")
+# num2 = input("enter second number: ")
+# def sum(num1, num2):
+#     sum = int(num1) + int(num2)
+#     print("sum is")
+#     return sum
+# print(sum(num1, num2))
