@@ -1,0 +1,9 @@
+import qrcode
+
+data = "Naveen Suryavanshi"
+
+qr = qrcode.meke(data)
+
+qr = qrcode.make(data)
+
+print("QR code generated successfully")
